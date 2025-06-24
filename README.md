@@ -16,4 +16,4 @@ A cute and simple web app that shows a random cat image every time you click the
 - [TheCatAPI](https://thecatapi.com/)
 
 # 📸 Preview
-![Screenshot](screenshot.png)
+![Screenshot](preview.png)
