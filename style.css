@@ -44,3 +44,16 @@ button{
     color: white;
     cursor: pointer;
 }
+
+@media (max-width: 480px) {
+  .container {
+    max-width: 85%;
+    gap: 10px;
+    padding: 12px;
+  }
+
+  #img {
+    height: 200px;
+  }
+
+}
