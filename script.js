@@ -18,3 +18,4 @@ async function fetchImg() {
 }
 
 btn.addEventListener('click', fetchImg)
+fetchImg()
